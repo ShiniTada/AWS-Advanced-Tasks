@@ -1,0 +1,15 @@
+{
+    "id": "6",
+    "type": "feedback",
+    "data": {
+        "name": "Yana Bahdanovich",
+		"candidate": "Timur Radko",
+        "dateTime": "02/11/2021 09:00 AM - 10:30 AM (GMT +03:00)",
+		"interviewType": "Technical interview"
+    },
+    "metadata": {
+        "emailSender": "yana.bogdanovich2000@mail.ru",
+        "emailRecipient": "Yana_Bahdanovich@epam.com",
+        "subject": "Technical Interview: Timur Radko"
+    }
+}

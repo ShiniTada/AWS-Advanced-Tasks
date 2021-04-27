@@ -1,0 +1,13 @@
+{
+    "id": "6",
+    "type": "timesheet",
+    "data": {
+        "name": "Limur",
+        "hoursMissed": 7
+    },
+    "metadata": {
+        "emailSender": "yana.bogdanovich2000@mail.ru",
+        "emailRecipient": "Yana_Bahdanovich@epam.com",
+        "subject": "Timesheet gaps"
+    }
+}
